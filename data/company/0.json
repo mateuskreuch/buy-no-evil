@@ -1,25 +1,30 @@
 {
-  "schemaVersion": 1,
-  "displayName": "Nestlé S.A.",
+  "schema_version": 1,
+  "id": 0,
+  "display_name": "Nestlé S.A.",
   "country": "Switzerland",
-  "malfeasanceSigns": {
-    "forcedOrChildLabor": true,
-    "unsafeWorkingConditions": false,
-    "unionBusting": true,
-    "wageTheft": false,
+  "malfeasance_signs": {
+    "forced_or_child_labor": true,
+    "unsafe_working_conditions": false,
+    "union_busting": true,
+    "wage_theft": false,
     "discrimination": false,
-    "whistleblowerRetaliation": false,
-    "politicalCorruption": true,
-    "taxAvoidance": false,
-    "dataPrivacyViolations": false,
-    "intellectualPropertyTheft": false,
-    "antiCompetitivePractices": true,
-    "falseAdvertising": true,
-    "unsustainablePractices": true,
-    "exploitativeSupplyChains": true,
-    "environmentalDestruction": true,
-    "harmfulAnimalTesting": false,
-    "customerExploitation": true
+    "whistleblower_retaliation": false,
+    "political_corruption": true,
+    "tax_avoidance": false,
+    "data_privacy_violations": false,
+    "intellectual_property_theft": false,
+    "anti_competitive_practices": true,
+    "false_advertising": true,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
   },
-  "lastModified": "2025-04-17T12:34:56.789Z"
+  "categories": [
+    "Food and Beverage",
+    "Dairy Products"
+  ],
+  "last_modified": "2025-04-17T12:34:56.789Z"
 }

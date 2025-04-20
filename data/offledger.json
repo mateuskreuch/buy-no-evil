@@ -1,7 +1,7 @@
 {
-    "schemaVersion": 1,
+    "schema_version": 1,
     "entries": {
-        "apple": 10,
-        "microsoft": 20
+        "APPLE": 10,
+        "MICROSOFT": 20
     }
 }

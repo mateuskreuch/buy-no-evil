@@ -1,7 +1,11 @@
 {
-    "schemaVersion": 1,
-    "entries": [
-        ["nestle", "nesquik", "nescau", "nescafe"],
-        ["garoto"]
-    ]
+    "companies_amount": 2,
+    "schema_version": 1,
+    "entries": {
+        "NESTLE": 0,
+        "NESQUIK": 0,
+        "NESCAU": 0,
+        "NESCAFE": 0,
+        "GAROTO": 1
+    }
 }

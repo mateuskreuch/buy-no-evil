@@ -1,7 +1,11 @@
 {
-    "schemaVersion": 1,
-    "parentId": 0,
-    "displayName": "Chocolates Garoto S.A.",
+    "schema_version": 1,
+    "parent_id": 0,
+    "id": 1,
+    "display_name": "Chocolates Garoto S.A.",
     "country": "Brazil",
-    "lastModified": "2025-04-17T12:34:56.789Z"
+    "categories": [
+        "Chocolates"
+    ],
+    "last_modified": "2025-04-17T12:34:56.789Z"
 }

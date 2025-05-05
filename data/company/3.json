@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "parent_normalized_name": "META",
+  "id": 3,
+  "display_name": "Facebook",
+  "country": "USA",
+  "malfeasance_signs": {
+    "forced_or_child_labor": false,
+    "unsafe_working_conditions": false,
+    "union_busting": false,
+    "wage_theft": false,
+    "discrimination": true,
+    "whistleblower_retaliation": false,
+    "political_corruption": true,
+    "tax_avoidance": true,
+    "data_privacy_violations": true,
+    "intellectual_property_theft": true,
+    "anti_competitive_practices": true,
+    "false_advertising": true,
+    "unsustainable_practices": false,
+    "exploitative_supply_chains": false,
+    "environmental_destruction": false,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Social Media",
+    "Social Networking",
+    "Advertising",
+    "Virtual Reality",
+    "Augmented Reality"
+  ],
+  "last_modified": "2025-05-05T02:02:07Z"
+}

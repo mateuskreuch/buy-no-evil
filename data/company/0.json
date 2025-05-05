@@ -23,8 +23,22 @@
     "customer_exploitation": true
   },
   "categories": [
-    "Food and Beverage",
-    "Dairy Products"
+    "Baby food",
+    "Bottled water",
+    "Cereals",
+    "Chocolate & confectionery",
+    "Coffee",
+    "Culinary, chilled & frozen food",
+    "Dairy",
+    "Drinks",
+    "Food service",
+    "Healthcare nutrition",
+    "Ice cream",
+    "Petcare",
+    "Snacks",
+    "Medical food",
+    "Dietary supplements",
+    "Protein supplements"
   ],
   "last_modified": "2025-04-17T12:34:56.789Z"
 }

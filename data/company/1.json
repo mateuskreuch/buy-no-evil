@@ -1,11 +1,36 @@
 {
-    "schema_version": 1,
-    "parent_id": 0,
-    "id": 1,
-    "display_name": "Chocolates Garoto S.A.",
-    "country": "Brazil",
-    "categories": [
-        "Chocolates"
-    ],
-    "last_modified": "2025-04-17T12:34:56.789Z"
+  "schema_version": 1,
+  "parent_normalized_name": "INDITEX",
+  "id": 2,
+  "display_name": "Zara",
+  "country": "Spain",
+  "malfeasance_signs": {
+    "forced_or_child_labor": true,
+    "unsafe_working_conditions": true,
+    "union_busting": false,
+    "wage_theft": false,
+    "discrimination": true,
+    "whistleblower_retaliation": false,
+    "political_corruption": true,
+    "tax_avoidance": false,
+    "data_privacy_violations": false,
+    "intellectual_property_theft": true,
+    "anti_competitive_practices": false,
+    "false_advertising": false,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Apparel",
+    "Footwear",
+    "Accessories",
+    "Beauty Products",
+    "Perfumes",
+    "Home Goods",
+    "Decoration Objects"
+  ],
+  "last_modified": "2025-05-05T01:56:23Z"
 }

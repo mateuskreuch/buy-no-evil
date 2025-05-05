@@ -1,12 +1,11 @@
 {
-  "companies_amount": 3,
+  "companies_amount": 2,
   "entries": {
-    "GAROTO": 1,
     "NESCAFE": 0,
     "NESCAU": 0,
     "NESQUIK": 0,
     "NESTLE": 0,
-    "ZARA": 2
+    "ZARA": 1
   },
   "schema_version": 1
 }

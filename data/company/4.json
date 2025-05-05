@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "parent_normalized_name": null,
+  "id": 4,
+  "display_name": "Apple",
+  "country": "USA",
+  "malfeasance_signs": {
+    "forced_or_child_labor": true,
+    "unsafe_working_conditions": true,
+    "union_busting": true,
+    "wage_theft": true,
+    "discrimination": true,
+    "whistleblower_retaliation": true,
+    "political_corruption": false,
+    "tax_avoidance": false,
+    "data_privacy_violations": true,
+    "intellectual_property_theft": true,
+    "anti_competitive_practices": true,
+    "false_advertising": true,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Consumer Electronics",
+    "Software",
+    "Computers",
+    "Mobile Devices",
+    "Services"
+  ],
+  "last_modified": "2025-05-05T02:30:32Z"
+}

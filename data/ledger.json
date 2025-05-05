@@ -1,6 +1,7 @@
 {
-  "companies_amount": 4,
+  "companies_amount": 5,
   "entries": {
+    "APPLE": 4,
     "CHOCOLATES GAROTO": 2,
     "FACEBOOK": 3,
     "NESCAFE": 0,

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "parent_normalized_name": null,
+  "id": 6,
+  "display_name": "AT&T",
+  "country": "USA",
+  "malfeasance_signs": {
+    "forced_or_child_labor": false,
+    "unsafe_working_conditions": false,
+    "union_busting": true,
+    "wage_theft": false,
+    "discrimination": true,
+    "whistleblower_retaliation": false,
+    "political_corruption": false,
+    "tax_avoidance": false,
+    "data_privacy_violations": true,
+    "intellectual_property_theft": false,
+    "anti_competitive_practices": true,
+    "false_advertising": false,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": false,
+    "environmental_destruction": true,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Telecommunications",
+    "Media",
+    "Technology",
+    "Wireless Communications",
+    "Data/Broadband Services",
+    "Internet Services",
+    "Entertainment"
+  ],
+  "last_modified": "2025-05-06T01:09:12Z"
+}

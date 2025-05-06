@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "parent_normalized_name": null,
+  "id": 5,
+  "display_name": "L'Oreal",
+  "country": "France",
+  "malfeasance_signs": {
+    "forced_or_child_labor": true,
+    "unsafe_working_conditions": false,
+    "union_busting": false,
+    "wage_theft": true,
+    "discrimination": true,
+    "whistleblower_retaliation": false,
+    "political_corruption": true,
+    "tax_avoidance": true,
+    "data_privacy_violations": false,
+    "intellectual_property_theft": false,
+    "anti_competitive_practices": true,
+    "false_advertising": true,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": true,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Skincare",
+    "Haircare",
+    "Makeup",
+    "Fragrances",
+    "Hygiene products",
+    "Consumer goods",
+    "L'Oréal Luxe",
+    "Professional Products",
+    "Active Cosmetics"
+  ],
+  "last_modified": "2025-05-06T01:07:14Z"
+}

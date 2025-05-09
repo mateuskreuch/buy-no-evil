@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "parent_normalized_name": "INDITEX",
-  "id": 2,
+  "parent_display_name": "Inditex",
+  "id": 1,
   "display_name": "Zara",
   "country": "Spain",
   "malfeasance_signs": {

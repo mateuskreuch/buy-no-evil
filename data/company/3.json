@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "parent_normalized_name": "META",
+  "parent_display_name": "Meta",
   "id": 3,
   "display_name": "Facebook",
   "country": "USA",

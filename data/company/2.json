@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "parent_normalized_name": "NESTLE",
+  "parent_display_name": "Nestlé",
   "id": 2,
-  "display_name": "CHOCOLATES GAROTO",
+  "display_name": "Garoto",
   "country": "Brazil",
   "malfeasance_signs": {
     "forced_or_child_labor": true,

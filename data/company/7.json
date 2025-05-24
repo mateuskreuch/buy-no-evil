@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "parent_display_name": "DuPont de Nemours, Inc.",
+  "id": 7,
+  "display_name": "DUPONT",
+  "country": "USA",
+  "malfeasance_signs": {
+    "forced_or_child_labor": false,
+    "unsafe_working_conditions": true,
+    "union_busting": false,
+    "wage_theft": false,
+    "discrimination": false,
+    "whistleblower_retaliation": false,
+    "political_corruption": true,
+    "tax_avoidance": false,
+    "data_privacy_violations": false,
+    "intellectual_property_theft": false,
+    "anti_competitive_practices": false,
+    "false_advertising": true,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": false,
+    "environmental_destruction": true,
+    "harmful_animal_testing": true,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Chemicals",
+    "Polymers",
+    "Agriculture",
+    "Electronics",
+    "Communications",
+    "Industrial Products",
+    "Healthcare",
+    "Safety and Protection",
+    "Transportation",
+    "Construction",
+    "Water Filtration and Purification"
+  ],
+  "last_modified": "2025-05-24T02:49:30Z"
+}

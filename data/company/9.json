@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "parent_display_name": "Xiaomi Corporation",
+  "id": 9,
+  "display_name": "Xiaomi",
+  "country": "China",
+  "malfeasance_signs": {
+    "forced_or_child_labor": false,
+    "unsafe_working_conditions": true,
+    "union_busting": false,
+    "wage_theft": false,
+    "discrimination": false,
+    "whistleblower_retaliation": false,
+    "political_corruption": false,
+    "tax_avoidance": false,
+    "data_privacy_violations": true,
+    "intellectual_property_theft": true,
+    "anti_competitive_practices": true,
+    "false_advertising": true,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": true,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Smartphones",
+    "Mobile Apps",
+    "Laptops",
+    "Home Appliances",
+    "Consumer Electronics",
+    "Internet of Things (IoT) devices",
+    "Internet Services"
+  ],
+  "last_modified": "2025-05-25T23:15:36Z"
+}

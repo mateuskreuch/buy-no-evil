@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "parent_display_name": "Federal Government of Brazil (majority shareholder)",
+  "id": 8,
+  "display_name": "Petrobras",
+  "country": "Brazil",
+  "malfeasance_signs": {
+    "forced_or_child_labor": false,
+    "unsafe_working_conditions": true,
+    "union_busting": true,
+    "wage_theft": true,
+    "discrimination": true,
+    "whistleblower_retaliation": false,
+    "political_corruption": true,
+    "tax_avoidance": false,
+    "data_privacy_violations": false,
+    "intellectual_property_theft": false,
+    "anti_competitive_practices": true,
+    "false_advertising": false,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Oil and Gas",
+    "Energy",
+    "Exploration and Production",
+    "Refining, Transportation, and Marketing",
+    "Gas and Power",
+    "Biofuels",
+    "Distribution"
+  ],
+  "last_modified": "2025-05-25T22:07:46Z"
+}

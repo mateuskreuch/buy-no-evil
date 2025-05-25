@@ -1,5 +1,5 @@
 {
-  "companies_amount": 8,
+  "companies_amount": 9,
   "entries": {
     "APPLE": 4,
     "AT T": 6,
@@ -11,6 +11,7 @@
     "NESCAU": 0,
     "NESQUIK": 0,
     "NESTLE": 0,
+    "PETROBRAS": 8,
     "ZARA": 1
   },
   "schema_version": 1

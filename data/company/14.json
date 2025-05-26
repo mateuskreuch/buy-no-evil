@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "parent_display_name": "Broadcom Inc.",
+  "id": 14,
+  "display_name": "Broadcom Corporation",
+  "country": "USA",
+  "malfeasance_signs": {
+    "forced_or_child_labor": false,
+    "unsafe_working_conditions": false,
+    "union_busting": false,
+    "wage_theft": false,
+    "discrimination": false,
+    "whistleblower_retaliation": false,
+    "political_corruption": false,
+    "tax_avoidance": true,
+    "data_privacy_violations": false,
+    "intellectual_property_theft": false,
+    "anti_competitive_practices": true,
+    "false_advertising": false,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Semiconductors",
+    "Electronics",
+    "Infrastructure Software"
+  ],
+  "last_modified": "2025-05-26T03:08:11Z"
+}

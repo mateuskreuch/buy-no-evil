@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "parent_display_name": null,
+  "id": 13,
+  "display_name": "PepsiCo",
+  "country": "USA",
+  "malfeasance_signs": {
+    "forced_or_child_labor": true,
+    "unsafe_working_conditions": true,
+    "union_busting": true,
+    "wage_theft": true,
+    "discrimination": true,
+    "whistleblower_retaliation": false,
+    "political_corruption": false,
+    "tax_avoidance": false,
+    "data_privacy_violations": false,
+    "intellectual_property_theft": false,
+    "anti_competitive_practices": false,
+    "false_advertising": true,
+    "unsustainable_practices": true,
+    "exploitative_supply_chains": true,
+    "environmental_destruction": true,
+    "harmful_animal_testing": false,
+    "customer_exploitation": true
+  },
+  "categories": [
+    "Beverages",
+    "Snacks",
+    "Nutrition",
+    "Grains",
+    "Dairy"
+  ],
+  "last_modified": "2025-05-26T03:03:11Z"
+}

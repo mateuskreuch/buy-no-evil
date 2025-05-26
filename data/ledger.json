@@ -1,5 +1,5 @@
 {
-  "companies_amount": 10,
+  "companies_amount": 11,
   "entries": {
     "APPLE": 4,
     "AT T": 6,
@@ -7,6 +7,7 @@
     "DUPONT": 7,
     "FACEBOOK": 3,
     "LOREAL": 5,
+    "MITSUBISHI CORPORATION": 10,
     "NESCAFE": 0,
     "NESCAU": 0,
     "NESQUIK": 0,

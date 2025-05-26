@@ -1,5 +1,5 @@
 {
-  "companies_amount": 12,
+  "companies_amount": 13,
   "entries": {
     "APPLE": 4,
     "AT T": 6,
@@ -14,6 +14,7 @@
     "NESTLE": 0,
     "ORACLE": 11,
     "PETROBRAS": 8,
+    "THE HOME DEPOT": 12,
     "XIAOMI": 9,
     "ZARA": 1
   },
